@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yamaha_yte", "Yamaha_yte.csproj", "{DC28C55E-3EDD-449A-9CAD-FFE5A339A780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC28C55E-3EDD-449A-9CAD-FFE5A339A780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC28C55E-3EDD-449A-9CAD-FFE5A339A780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC28C55E-3EDD-449A-9CAD-FFE5A339A780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC28C55E-3EDD-449A-9CAD-FFE5A339A780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1832E93-CAEC-45FD-87BF-8DBCA765E90E}
+	EndGlobalSection
+EndGlobal
